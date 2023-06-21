@@ -1147,12 +1147,10 @@ filter-section .bottom-section .all-block .left-block ul li:not(:last-child){pad
     .single-blog-section .card .bottom-section .left-block .tab-content .tab-pane .text-block .price-btn-block p{font-size: 26px;padding-bottom: 24px;}
     .single-blog-section .card .bottom-section .right-block .box ul .list{padding: 20px;}
     .single-blog-section .card .bottom-section .right-block .social-links{padding: 30px 0;}
-    .single-blog-section .card .top-section .box .icons{flex-wrap: wrap;justify-content: center;}
-    .single-blog-section .card .top-section .box.no-flex{text-align: center;}
+    .single-blog-section .card .top-section .box .icons{flex-wrap: wrap;}
     .single-blog-section .card .top-section .box.no-flex p.student{font-size: 13px;}
     .single-blog-section .card .top-section .box .name-tag h3{font-size: 14px;}
     .single-blog-section .card .top-section .box .name-tag p{font-size: 13px;}
-    .single-blog-section .card .top-section .box .course-tag{text-align: center;}
     .single-blog-section .card .top-section .box .course-tag p{font-size: 14px;}
     .single-blog-section .card .top-section .box.no-border{flex-wrap: wrap;justify-content: center;}
     .single-blog-section .card .top-section .box .button a{padding: 9px 22px;}
@@ -1177,7 +1175,7 @@ filter-section .bottom-section .all-block .left-block ul li:not(:last-child){pad
     .single-blog-section .card .top-section{flex-wrap: wrap;}
     .single-blog-section .card .top-section .box{width: 50%;padding-bottom: 20px;}
     .single-blog-section .card .top-section .box::after{display: none;}
-    .single-blog-section .card .top-section .box.no-flex{order: 3;}
+    .single-blog-section .card .top-section .box.no-flex{order: 3;padding: 0 15px 20px 15px;}
     .single-blog-section .card .top-section .box.no-border{order: 4;}
     .single-blog-section .card .top-section .box .image-block{width: 90px;height: auto; }
     .slider-section .all-slider .card .desc h3{font-size: 14px;}
@@ -2292,20 +2290,6 @@ padding-bottom: 75px;}
 @media only screen and (max-width : 330px){
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*  CONTACT PAGE RESPONSIVE CSS END */
 
 
